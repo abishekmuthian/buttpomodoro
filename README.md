@@ -7,6 +7,7 @@ A butt triggered pomodoro timer.
 https://abishekmuthian.com/butt-pomodoro-a-butt-triggered-pomodoro-timer/ 
 
 ## Usage
+go build
 ./buttpomodoro
 
 ## Demo
