@@ -4,7 +4,7 @@
 A butt triggered pomodoro timer.
 
 ## Why, How and Setup
-https://abishekmuthian.com/butt-pomodoro-a-butt- triggered-pomodoro-timer/ 
+https://abishekmuthian.com/butt-pomodoro-a-butt-triggered-pomodoro-timer/ 
 
 ## Usage
 ./buttpomodoro
